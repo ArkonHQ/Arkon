@@ -1,4 +1,4 @@
-Hi, I'm Arkon
+👋 Hi, I'm Arkon
 
 Frontend Developer focused on building modern, responsive web applications using React, Next.js, and TypeScript.
 
