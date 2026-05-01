@@ -12,11 +12,12 @@
 
 I’m a **Frontend Developer** who turns complex ideas into polished, responsive, and blazing-fast user interfaces. My stack revolves around **React, Next.js, and TypeScript**, but I’m equally comfortable across the full frontend ecosystem – from design tokens to deployment.
 
-- I care about **real-world applications**, not just demos — usability, performance, and maintainability are non-negotiable.
-- I write **structured, type-safe code** that scales with your product and your team.
-- Every interface I build is **responsive, accessible, and pixel-perfect** across devices.
-- Currently deepening my knowledge in **backend systems (Node.js/Express/MongoDB)** to become a more rounded engineer.
-- Ask me about Next.js, React patterns, Tailwind CSS, or turning a Figma file into production code.
+<!-- Custom icons instead of emojis -->
+- <img src="https://img.icons8.com/ios-filled/24/2F9BF7/checkmark--v1.png" width="20" style="vertical-align: middle; margin-right: 8px;" /> I care about **real-world applications**, not just demos – usability, performance, and maintainability are non-negotiable.
+- <img src="https://img.icons8.com/ios-filled/24/2F9BF7/checkmark--v1.png" width="20" style="vertical-align: middle; margin-right: 8px;" /> I write **structured, type-safe code** that scales with your product and your team.
+- <img src="https://img.icons8.com/ios-filled/24/2F9BF7/checkmark--v1.png" width="20" style="vertical-align: middle; margin-right: 8px;" /> Every interface I build is **responsive, accessible, and pixel-perfect** across devices.
+- <img src="https://img.icons8.com/ios-filled/24/2F9BF7/checkmark--v1.png" width="20" style="vertical-align: middle; margin-right: 8px;" /> Currently deepening my knowledge in **backend systems (Node.js/Express/MongoDB)** to become a more rounded engineer.
+- <img src="https://img.icons8.com/ios-filled/24/2F9BF7/checkmark--v1.png" width="20" style="vertical-align: middle; margin-right: 8px;" /> Ask me about Next.js, React patterns, Tailwind CSS, or turning a Figma file into production code.
 
 ---
 
@@ -24,7 +25,7 @@ I’m a **Frontend Developer** who turns complex ideas into polished, responsive
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mongoose,figma,git,github,gsap" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mongoose,figma,git,github" />
   </a>
 </p>
 
@@ -41,6 +42,22 @@ I’m a **Frontend Developer** who turns complex ideas into polished, responsive
 
 ---
 
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArkonHQ&theme=onedark&no-frame=true&column=7" />
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArkonHQ&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -51,18 +68,6 @@ I’m a **Frontend Developer** who turns complex ideas into polished, responsive
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArkonHQ&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
 </div>
-
----
-
-### Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArkonHQ/ArkonHQ/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArkonHQ/ArkonHQ/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArkonHQ/ArkonHQ/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ---
 
