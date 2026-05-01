@@ -25,7 +25,7 @@ I’m a **Frontend Developer** who turns complex ideas into polished, responsive
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mongoose,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,gsap,figma,git,github" />
   </a>
 </p>
 
